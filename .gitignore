@@ -1,0 +1,14 @@
+# Eclipse files
+*.classpath
+*.project
+*.settings/
+
+# Build folders
+bin/
+target/
+
+# Logs
+*.log
+
+# Database configs
+config.properties
